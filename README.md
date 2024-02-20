@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @XccChang
-- 👀 Undergradute majored in geography
 - 🌱 I’m currently learning python 
 - 💞️ Enjoy the time here!
 
